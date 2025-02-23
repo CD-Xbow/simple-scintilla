@@ -4,9 +4,10 @@
 MIT License, Scintilla has it's own license, included. 
 ________________________________________________________________________
 
-This is a simple editor based on Scintilla.that does the basic stuff, it even opens files
-I say that because 95% of Scintilla examples don't and they don't because it is a pig to do it.
-The code is straight forward and resonably well commented.  
+This is a simple editor based on Scintilla.that does the basic stuff, it even opens files!!!!
+I say that because 95% of Scintilla examples don't and they don't because it is a pig to do..
+The code is straight forward and resonably well commented. Evertthing works, though a couple 
+of things are klutzy, like the printing.
 
 
 ## Version 0.2
