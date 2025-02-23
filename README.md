@@ -1,4 +1,4 @@
-# scintilla-editor
+# Simple scintilla
 ## A simple scintilla editor in Pure Basic
 
 MIT License, Scintilla has it's own license, included. 
