@@ -7,7 +7,8 @@ ________________________________________________________________________
 This is a simple editor based on Scintilla.that does the basic stuff, it even opens files!!!!
 I say that because 95% of Scintilla examples don't and they don't because it is a pig to do..
 The code is straight forward and resonably well commented. Evertthing works, though a couple 
-of things are klutzy, like the printing.
+of things are klutzy, like the printing. The repo contains all the files needed and a compiled
+version for Windows. 
 
 
 ## Version 0.2
