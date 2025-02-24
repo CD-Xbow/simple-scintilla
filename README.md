@@ -43,9 +43,8 @@ Limitations
 
 ## Version 0.3 - To do
 
-	- Search and replace
-	- Better print
+	- Proper Syntax highlighting
 
 ## Version 0.4 - To do
-
-	- Proper Syntax highlighting
+	- Search and replace
+	
